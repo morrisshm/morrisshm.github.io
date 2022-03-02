@@ -56,10 +56,10 @@ table, th, td {
   }
 img,video{
     background-color: white;
-    max-width: 20%;
+    max-width: 70%;
     height: 180px;
     border-radius: 20%;
-    border-style: dashed;
+    border-style: none;
     padding: 0px;
     margin: 10px 15px;
 }
